@@ -1,6 +1,8 @@
 import random
 import os
 aa = 0
+for i in range(10):
+    i = i + 1
 while aa < 1:
     print("======================================")
     num1 = [1,2,3,4,5]                       #定义三个任务位置的列表
